@@ -2,6 +2,6 @@
 # launcher.sh
 
 cd /
-cd /home/pi/rbpi/unicurses_display
+cd /home/pi/Rbpi_Displays/unicurses_displays
 sudo python dd_terminal.py 2> err
 cd /
